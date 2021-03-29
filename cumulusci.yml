@@ -4,6 +4,7 @@ project:
     namespace: alekjad498348ad
     package:
         name: Food-Bank
+        namespace: alekjad498348ad
         api_version: '50.0'
     git:
         default_branch: 'main'
